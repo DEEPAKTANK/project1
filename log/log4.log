@@ -1,0 +1,14 @@
+14:44:49.938 [main] INFO  - Opening browser
+14:44:52.260 [main] INFO  - Open web application
+14:44:59.994 [main] INFO  - Login page displayed
+14:45:00.438 [main] INFO  - login successful
+14:45:00.449 [main] INFO  - Test case started- Task 
+14:45:09.152 [main] ERROR - testCase_task
+14:45:10.749 [main] INFO  - Logout successful
+14:45:27.542 [main] INFO  - Opening browser
+14:45:29.773 [main] INFO  - Open web application
+14:45:38.324 [main] INFO  - Login page displayed
+14:45:38.852 [main] INFO  - login successful
+14:45:38.882 [main] INFO  - Test case started- Task 
+14:45:46.215 [main] INFO  - Testcase ended- Task 
+14:45:47.831 [main] INFO  - Logout successful
